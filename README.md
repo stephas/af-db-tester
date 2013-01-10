@@ -3,7 +3,7 @@ af-db-tester
 
 vcap database filling and checksumming, for migration testing.
 
-``
+```
 ➜  af-db-tester git:(master) ✗ curl af-db-tester.vcap.example.org
 
 db tester
@@ -43,6 +43,6 @@ deleted all data
 ➜  af-db-tester git:(master) ✗ curl af-db-tester.vcap.example.org/service/mongodb-723e6
 
 ➜  af-db-tester git:(master) ✗
-``
+```
 
 hope it's useful. cheers.
