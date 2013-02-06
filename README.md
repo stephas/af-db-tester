@@ -3,7 +3,10 @@ af-db-tester
 
 vcap database filling and checksumming, for migration testing.
 
+supports mysql and mongodb at the moment.
+
 ```
+
 ➜  af-db-tester git:(master) ✗ curl af-db-tester.vcap.example.org
 
 db tester
